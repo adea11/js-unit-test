@@ -1,0 +1,50 @@
+# Gauge - metadata dir
+.gauge
+
+# Gauge - log files dir
+logs
+
+# Gauge - reports dir
+reports
+/.reports/
+/.reports
+# Gauge - JavaScript node dependencies
+node_modules
+
+html-report/
+html-report/*
+reports/
+reports
+./reports/
+!.gitkeep
+.DS_Store
+node_modules/
+logs/
+logs/*
+reports
+.idea/*
+/.idea
+.idea
+idea/*
+.gauge/*
+.gauge/
+reports/*
+/logs
+/node_modules
+/node_modules/*
+log.txt
+*.png
+.gauge/*
+screenshots/node_modules\
+reports\
+screenshots\
+/Microsoft Edge Dev
+.Microsoft Edge Dev
+Microsoft Edge Dev/
+/Microsoft Edge Dev/*
+Microsoft Edge Dev.app
+/Microsoft Edge Dev.app
+/Microsoft Edge Dev.app/*
+Dockerfile
+logs/lsp.log
+logs/gauge.log
